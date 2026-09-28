@@ -3,7 +3,7 @@
 A retrieval-augmented question answering system for Irish irrigation decisions.
 Ask it about evapotranspiration, crop coefficients, effective rainfall, soil
 water, or how the underlying forecasting model works, and it answers **only**
-from a curated knowledge base — with citations, and with a refusal when the
+from a curated knowledge base with citations, and with a refusal when the
 answer isn't in the corpus.
 
 Built as a companion to [smart-irrigation-ireland](https://github.com/Vignesh22-hub/smart-irrigation-ireland),
